@@ -5,7 +5,7 @@ To run the project you need to have the Java Development Environment working on 
 
 ## How to run the application in the prompt
 1. Clone this repository
-2. Open the prompt in the dist folder
+2. Open the dist folder in the prompt
 ```sh
 cd capgemini-challenge/dist
 ```
